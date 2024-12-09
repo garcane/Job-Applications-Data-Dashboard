@@ -19,13 +19,8 @@ The primary goal of this project was to transform semi-structured data from a Wo
 3. **Conversion to Text and CSV**:
    - Converted the cleaned Word document into a plain text file.
    - The Notion Job tracker had the predefined columns: `Company`, `Stage`, `Position`, `Applied`, `Date`, `Salary`, `Location`.
-   - Using ChatGPT to transform the text into a CSV format with predefined columns: `Company`, `Stage`, `Position`, `Applied`, `Date`, `Salary`, `Location`. using this prompt
+   - Using ChatGPT to transform the text into a CSV format with predefined columns: `Company`, `Stage`, `Position`, `Applied`, `Date`, `Salary`, `Location`. using this prompt:
    - 
-
----
-
-
-## Problem Statement
 
 I have these text document which contain all the job applications I have applied for. They have mixed formats for example this "Coding Trainee Placement Programme:
 
