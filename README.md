@@ -118,7 +118,7 @@ A downloadable CSV file.
 - **`Notion Job Tracker Applications Copy`**: The Notion Job Tracker
 - **`Application Document Analysis (Cleaned).txt`**: Text version of the cleaned data.
 - **`job_applications_final.csv`**: Final processed CSV file.
-- **`*Removed Target Words.txt`**: Key words removed from the Word document 
+- **`Removed Target Words.txt`**: Key words removed from the Word document 
 
 ## Insights and Challenges
 - The process revealed the importance of data consistency when dealing with unstructured formats.
