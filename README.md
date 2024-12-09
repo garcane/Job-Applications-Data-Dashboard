@@ -47,7 +47,7 @@ The primary goal of this project was to transform unstructured data from a Word 
 - **`Application Document Analysis.docx`**: The initial cleaned Word document.
 - **`Application Document Analysis (Cleaned).txt`**: Text version of the cleaned data.
 - **`job_applications_final.csv`**: Final processed CSV file.
-- **``**: 
+- **`*Removed Target Words.txt`**: Key words removed from the Word document 
 
 ## Insights and Challenges
 - The process revealed the importance of data consistency when dealing with unstructured formats.
