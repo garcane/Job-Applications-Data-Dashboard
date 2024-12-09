@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 # Load the text file content
-file_path = '/mnt/data/Application Document Analysis (Cleaned).txt'
+file_path = r'C:\Users\Student\Job Application\Application Document Analysis (Cleaned).txt'
 with open(file_path, 'r') as file:
     content = file.read()
 
