@@ -45,6 +45,7 @@ The primary goal of this project was to transform semi-structured data from a Wo
 
 ## Files
 - **`Application Document Analysis.docx`**: The initial cleaned Word document.
+- **`Notion Job Tracker Applications Copy`**: The Notion Job Tracker
 - **`Application Document Analysis (Cleaned).txt`**: Text version of the cleaned data.
 - **`job_applications_final.csv`**: Final processed CSV file.
 - **`*Removed Target Words.txt`**: Key words removed from the Word document 
