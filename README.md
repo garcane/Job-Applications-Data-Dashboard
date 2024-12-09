@@ -20,7 +20,7 @@ The primary goal of this project was to transform semi-structured data from a Wo
    - Converted the cleaned Word document into a plain text file.
    - The Notion Job tracker had the predefined columns: `Company`, `Stage`, `Position`, `Applied`, `Date`, `Salary`, `Location`.
    - Using ChatGPT to transform the text into a CSV format with predefined columns: `Company`, `Stage`, `Position`, `Applied`, `Date`, `Salary`, `Location`. using this prompt:
-   - 
+
 
 I have these text document which contain all the job applications I have applied for. They have mixed formats for example this
 
@@ -109,7 +109,8 @@ A downloadable CSV file.
 ## Tools and Technologies
 - **Microsoft Word**: Initial data cleaning.
 - **ChatGPT**: Conversion of text data into CSV format.
-- **Gemini**: Minor Excel formulas
+- **Gemini**: Minor Excel formulas.
+- **Claude**: Minor string reformatting.
 - **Microsoft Excel**: Random date generation and manual adjustments.
 - **Python**: Random date generator and automation.
 
