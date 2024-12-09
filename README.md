@@ -84,7 +84,7 @@ London
 If the job entry lacks **Location**, **Salary**, or **Stage**, fill those columns with `N/A`. The output should resemble the format:
 
 ```
-Gracye, Rejected, Data Graduate, London, August 12, 2024, £26,800, London
+Gracye, Rejected, Data Graduate, London, 12 August 2024, £26,800, London
 ```
 
 ### Deliverables
