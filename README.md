@@ -20,6 +20,81 @@ The primary goal of this project was to transform semi-structured data from a Wo
    - Converted the cleaned Word document into a plain text file.
    - The Notion Job tracker had the predefined columns: `Company`, `Stage`, `Position`, `Applied`, `Date`, `Salary`, `Location`.
    - Using ChatGPT to transform the text into a CSV format with predefined columns: `Company`, `Stage`, `Position`, `Applied`, `Date`, `Salary`, `Location`. using this prompt
+   - 
+
+---
+
+
+## Problem Statement
+
+I have these text document which contain all the job applications I have applied for. They have mixed formats for example this "Coding Trainee Placement Programme:
+
+```
+Coding Trainee Placement Programme
+
+Location: Nationwide
+
+ITonlinelearning
+
+16/01/2024 (20:55)
+```
+
+```
+Trainee Business Analyst
+
+LocalJobs4U
+
+Salary: £25,000 - £27,000/annum
+
+Location: WC2N, Charing Cross, Greater London
+
+19/08/2024 (11:32)
+
+```
+
+or 
+
+```
+Data Analyst
+
+Probus Recruitment Ltd
+
+16/08/2024 (09:43)
+```
+
+or 
+
+```
+Data Scientist
+
+Datasource
+
+London
+
+18/10/24
+```
+
+## Task Description
+
+ I need you to create a CSV file from the text using the following headings
+ 
+- **Company**
+- **Stage**
+- **Position**
+- **Applied**
+- **Date**
+- **Salary**
+- **Location**
+
+If the job entry lacks **Location**, **Salary**, or **Stage**, fill those columns with `N/A`. The output should resemble the format:
+
+```
+Gracye, Rejected, Data Graduate, London, August 12, 2024, £26,800, London
+```
+
+### Deliverables
+
+A downloadable CSV file.
 
 4. **Manual Adjustments**:
    - Corrected column inconsistencies where job titles were placed under the `Company` column and vice versa.
@@ -56,4 +131,4 @@ The primary goal of this project was to transform semi-structured data from a Wo
 - Handling missing data required a combination of statistical methods and logical inference.
 
 ## Future Work
-- Visualize the dataset using tools like Power BI or Tableau to identify application trends and success rates.
+- Visualise the dataset using tools like Power BI or Tableau to identify application trends and success rates.
