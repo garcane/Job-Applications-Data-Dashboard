@@ -1,8 +1,8 @@
-# Job Applications Data Analysis
-This project documents the process of analyzing data related to job applications, highlighting the data cleaning, transformation, and analysis steps performed to create a structured dataset for insights.
+# Job Applications Data Cleaning
+This project documents the process of cleaning data related to job applications, highlighting the data cleaning, transformation, and analysis steps performed to create a structured dataset for insights.
 
 ## Overview
-The primary goal of this project was to transform semi-structure data from a Word document to a cleaned text file into a clean and structured CSV file, suitable for further analysis. This dataset represents job applications, with details such as company, position, application date, location, and salary.
+The primary goal of this project was to transform semi-structured data from a Word document to a cleaned text file into a clean and structured CSV file, suitable for further analysis. This dataset represents job applications, with details such as company, position, application date, location, and salary.
 
 ## Process
 1. **Data Collection**:
