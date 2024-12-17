@@ -91,10 +91,15 @@ Gracye, Rejected, Data Graduate, London, 12 August 2024, £26,800, London
 
 A downloadable CSV file.
 
+The downloadable CSV file was then merged into the Notion CSV database.
+
+
 4. **Manual Adjustments**:
    - Corrected column inconsistencies where job titles were placed under the `Company` column and vice versa.
    - Standardised date formats for consistency using 
    - For missing dates, generated random dates within the job hunting period using Excel.
+   - Companies with the same corporation but had different names was standardised by using the official company name from the website
+
 
 5. **Salary Adjustments**:
    - Calculated mean averages for roles with salary ranges.
