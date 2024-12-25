@@ -1,5 +1,7 @@
-# Job Applications Data Cleaning
+# Job Applications Dashboard
 This project documents the process of cleaning data related to job applications, highlighting the data cleaning, transformation particularly from semi structured data into structured dats, and analysis steps performed to create a structured dataset for insights.
+![Job Application Dashboard-1](https://github.com/user-attachments/assets/82195a76-a031-42a2-9719-f70bf93d07af)
+
 
 ## Overview
 The primary goal of this project was to transform semi-structured data from a Word document to a cleaned text file into a clean and structured CSV file, suitable for further analysis. This dataset represents job applications, with details such as company, position, application date, location, and salary.
