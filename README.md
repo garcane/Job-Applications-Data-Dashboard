@@ -133,5 +133,24 @@ The downloadable CSV file was then merged into the Notion CSV database.
 - Automation with tools like ChatGPT significantly reduced manual effort.
 - Handling missing data required a combination of statistical methods and logical inference.
 
-## Future Work
-- Visualise the dataset using tools like Power BI or Tableau to identify application trends and success rates.
+## Methodology: Data Visualization and Analysis
+1. **Data Preparation and Source**  
+   - The data for this Power BI report was derived from a CSV file containing the following fields: `ID`, `Company`, `Stage`, `Position`, `Date`, `Salary`, and `Location`. This dataset captures key details of job applications, including the progress through various stages, positions applied for, corresponding salaries, and geographical locations.
+
+2. **Report Creation**  
+   - A comprehensive visual report was developed to provide a clear overview of the job application trends and outcomes. The report incorporates dynamic slicers to allow interactive filtering by important dimensions such as application stage, position, and date. These slicers enable users to drill down into specific subsets of the data for detailed insights.
+
+3. **Visualization Design**  
+   - Various visual elements were used to illustrate the data effectively:
+     - A **KPI summary** at the top of the dashboard highlights key metrics such as the number of distinct locations, total job applications, average salary, and the total number of companies.
+     - A **bar chart** displays the breakdown of job applications by stage, showcasing outcomes such as "Ghosted," "Rejected," and "Offered" for a quick overview of application success rates.
+     - A **clustered bar chart** maps the number of companies and average salary by location, providing insights into the geographical distribution of job opportunities and associated remuneration.
+     - A **line chart** tracks the number of job applications over time, revealing trends in monthly application activity.
+     - An **interactive Sankey diagram** connects dimensions such as location, position, and company to show the flow of applications and associated outcomes.
+
+4. **Insights and Recommendations**  
+   - The visualizations are designed to deliver actionable insights. For instance, users can identify cities or companies with higher salary offerings, analyze the most common stages where applications are rejected, and observe trends in application volume to optimize job-seeking strategies.
+   - Filtering by position (e.g., "Data Analyst") or location (e.g., "London, Greater London") enables targeted analysis, helping to refine strategies for job searching in specific sectors or areas.
+
+5. **Enhancing Company Performance and Decision-Making**  
+   - The insights provided by this dashboard can guide users or organizations in improving their application processes, focusing efforts on promising locations, and tailoring strategies to align with observed trends in hiring practices. 
