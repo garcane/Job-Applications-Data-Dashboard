@@ -38,6 +38,11 @@ if 'Sector' in applications_df.columns:
 else:
     merged_df.rename(columns={'Sector_from_sectors': 'Sector'}, inplace=True)
 
+# Replace any remaining blank/NaN sectors with 'Unknown'
+merged_df['Sector'] = merged_df['Sector'].fillna('Unknown')
+
+
+
 # Save the result
 merged_df.to_csv(r"C:\Users\Student\Job-Applications-Data-Dashboard\job_applications_final_updated_with_sector.csv", index=False)
 print("✅ Merge completed and saved to 'job_applications_final_updated_with_sector.csv'")
