@@ -76,7 +76,7 @@
 75,srg,Rejected,Biotransformation scientist,03-13-24,32798,"London, Greater London",Recruitment
 76,cbsbutler holdings,Ghosted,Chemist,03-13-24,37020,"London, Greater London",Recruitment
 77,tvs scs,Ghosted,Data Scientist,03-13-24,38227,"London, Greater London",Logistics
-78,0.0012,Ghosted,Graduate Analyst- Dialler Manager,03-13-24,32185,"London, Greater London",Consulting
+78,N/A,Ghosted,Graduate Analyst,03-13-24,32185,"London, Greater London",Unknown
 79,vrs-uk,Ghosted,Graduate Scientist,03-13-24,31294,"London, Greater London",Recruitment
 80,spectrum it recruitment,Ghosted,"Graduate Software Engineer, Python",03-13-24,31144,"London, Greater London",Recruitment
 81,russell taylor group ltd,Ghosted,Immunoassay Scientist,03-13-24,39568,"London, Greater London",Recruitment
@@ -145,7 +145,7 @@
 144,munich re specialty - global markets,Ghosted,Property Analyst,04-23-24,34768,"London, Greater London",Insurance
 145,aspen insurance group,Rejected,Data Graduate,04-25-24,26000,"London, Greater London",Insurance
 146,portfolio information analyst,Rejected,Hiscox,04-26-24,30929,"London, Greater London",Financial Services
-147,jsk consultancy ltd,Ghosted,KYC/AML Analyst,04-29-24,34935,"London, Greater London",Unknown
+147,jsk consultancy ltd,Ghosted,KYC/AML Analyst,04-29-24,34935,"London, Greater London",Consulting
 148,youlend,Rejected,Data Analyst,04-30-24,35000,"London, Greater London",Financial Technology
 149,2i recruit ltd,Ghosted,Report Administrator,04-30-24,25651,"London, Greater London",Unknown
 150,hunter ahp resourcing,Ghosted,CV Enquiry,05-24-00,0,"London, Greater London",Recruitment
@@ -187,54 +187,54 @@
 187,berkeley square it ltd,Ghosted,Junior Database Developer,06-24-00,37755,"London, Greater London",Recruitment 
 188,golondon group,Ghosted,Junior Energy Analyst,06-24-00,27258,"London, Greater London",Recruitment
 189,career sprint,Ghosted,Trainee Data Analyst,06-24-00,33839,"London, Greater London",Recruitment
-190,diversita,Rejected,Data Consultant - London,06-24-00,30000,"London, Greater London",Unknown
+190,diversita,Rejected,Data Consultant - London,06-24-00,30000,"London, Greater London",Recruitment and consultancy
 191,txm recruit,Ghosted,Graduate Data Analyst,06-24-00,37798,"London, Greater London",Recruitment
-192,reds10 (uk) ltd,Ghosted,Graduate Data Analyst,06-24-00,38893,"London, Greater London",Unknown
+192,reds10 (uk) ltd,Ghosted,Graduate Data Analyst,06-24-00,38893,"London, Greater London",Construction 
 193,txm recruit,Ghosted,Graduate Data Analyst,06-24-00,37178,"London, Greater London",Recruitment
 194,edf limited,Ghosted,Data Engineer,06-24-00,30000,"London, Greater London",Energy
 195,barrington james,Ghosted,Python RPA Developer,06-13-24,34728,"London, Greater London",Recruitment
-196,bbc,Ghosted,Data Science Degree Apprenticeship - Level 6 - London - Product Group,06-15-24,31515,"London, Greater London",Unknown
-197,energy jobline,Ghosted,Data Scientist,06-15-24,37300,"London, Greater London",Unknown
+196,bbc,Ghosted,Data Science Degree Apprenticeship - Level 6 - London - Product Group,06-15-24,31515,"London, Greater London",Media
+197,energy jobline,Ghosted,Data Scientist,06-15-24,37300,"London, Greater London",Energy
 198,aqa,Ghosted,Assessment Analyst,06-16-24,39986,"London, Greater London",Unknown
 199,hyper recruitment solutions ltd,Ghosted,Biologist,06-17-24,36425,"London, Greater London",Recruitment
 200,aviva,Rejected,Data Graduate,06-17-24,26000,"London, Greater London",Financial Services
 201,s3 science,Ghosted,Junior Biomedical Scientist,06-17-24,31147,"London, Greater London",Recruitment
 202,enterprise recruitment ltd,Ghosted,Junior Data Scientist,06-17-24,31801,"London, Greater London",Recruitment
-203,northreach,Ghosted,Quality Control Scientist I / II,06-17-24,39382,"London, Greater London",Unknown
-204,northreach,Ghosted,Scientist,06-17-24,36460,"London, Greater London",Unknown
+203,northreach,Ghosted,Quality Control Scientist I / II,06-17-24,39382,"London, Greater London",recruitment 
+204,northreach,Ghosted,Scientist,06-17-24,36460,"London, Greater London",recruitment 
 205,bjss,Ghosted,Software Engineer,06-17-24,53304,"London, Greater London",Unknown
 206,career sprint,Ghosted,Trainee Data Analyst,06-17-24,33839,"London, Greater London",Recruitment
 207,career sprint,Ghosted,Trainee Data Analyst,06-17-24,33839,"London, Greater London",Recruitment
 208,hatched recruitment group,Rejected,Data Analyst,06-19-24,35000,"London, Greater London",Recruitment
 209,funding circle,Ghosted,Analytics Engineer,06-20-24,35371,"London, Greater London",Unknown
 210,lidl gb,Ghosted,Customs Data Analyst 12 month FTC,06-20-24,36114,"London, Greater London",Unknown
-211,zurich insurance company ltd,Rejected,Data And Analytics Graduate Programme 2025 - London,06-20-24,32063,"London, Greater London",Unknown
+211,zurich insurance company ltd,Rejected,Data And Analytics Graduate Programme 2025 - London,06-20-24,32063,"London, Greater London",insurance 
 212,bending spoons,Ghosted,Data Analyst,06-22-24,35000,"London, Greater London",Unknown
-213,alphasights,Rejected,Graduate Product Analyst,06-22-24,37897,"London, Greater London",Unknown
-214,xcede uk,Ghosted,Data Analyst / Analytics Engineer,06-23-24,35000,"London, Greater London",Unknown
+213,alphasights,Rejected,Graduate Product Analyst,06-22-24,37897,"London, Greater London",IT
+214,xcede uk,Ghosted,Data Analyst / Analytics Engineer,06-23-24,35000,"London, Greater London",Recruitment
 215,3h partners,Ghosted,Junior Business Analyst,06-23-24,27030,"London, Greater London",Unknown
 216,elpis maritime limited,Rejected,Investment Analyst,06-27-24,37387,"London, Greater London",Unknown
 217,evolveyou,Rejected,Junior Data Analyst,06-27-24,29606,"London, Greater London",Unknown
 218,ki,Rejected,Data Analyst,06-29-24,35000,"London, Greater London",Unknown
-219,lightyear,Rejected,Data Analyst,06-30-24,35000,"London, Greater London",Unknown
+219,lightyear,Rejected,Data Analyst,06-30-24,35000,"London, Greater London",Financial Technology
 220,diamond light source,Ghosted,Data Analysis Scientist,07-24-00,34488,"London, Greater London",Unknown
-221,xcede uk,Ghosted,BI Analyst,07-24-00,25360,"London, Greater London",Unknown
+221,xcede uk,Ghosted,BI Analyst,07-24-00,25360,"London, Greater London",Recruitment
 222,experis,Ghosted,Data Quality Analyst 365 / SQL / Azure,07-24-00,25078,"London, Greater London",Unknown
-223,alphasights,Rejected,Graduate Analyst Strategy & Analytics,07-24-00,37706,"London, Greater London",Unknown
+223,alphasights,Rejected,Graduate Analyst Strategy & Analytics,07-24-00,37706,"London, Greater London",IT
 224,hays,Rejected,Business Data Analyst,07-24-00,37734,"London, Greater London",Recruitment
 225,adverity,Rejected,Python Engineer,07-24-00,27855,"London, Greater London",Unknown
 226,cedar recruitment,Rejected,Business Data Analyst,07-13-24,28413,"London, Greater London",Recruitment
 227,accountable recruitment limited,Rejected,Junior Data Analyst,07-13-24,33495,"London, Greater London",Recruitment
-228,joinrs uk,Ghosted,Junior Data Scientist & AI,07-16-24,34054,Remote,Unknown
+228,joinrs uk,Ghosted,Junior Data Scientist & AI,07-16-24,34054,Remote,Human Resources Services
 229,job switch ltd,Rejected,Data Scientist,07-18-24,33959,"London, Greater London",Unknown
 230,capital on tap,Rejected,Growth Data Analyst,07-18-24,34310,"London, Greater London",Unknown
 231,austin fraser,Ghosted,Junior Data Analyst,07-19-24,30478,"London, Greater London",Recruitment
 232,winterflood securities,Rejected,Junior IT Support Analyst,07-20-24,39654,"London, Greater London",Unknown
 233,fortice,Ghosted,Software Engineer (Python),07-22-24,45528,"London, Greater London",Unknown
 234,welsh water,Rejected,Data Graduate,07-23-24,26000,"London, Greater London",Unknown
-235,fuse energy,Ghosted,Senior Data Scientist Commodities,07-23-24,28371,"London, Greater London",Unknown
+235,fuse energy,Ghosted,Senior Data Scientist Commodities,07-23-24,28371,"London, Greater London",Energy
 236,idexx,Ghosted,Technical Data Specialist,07-23-24,37406,"London, Greater London",Unknown
-237,nhs professionals,Rejected,Administrator,07-25-24,37463,"London, Greater London",Unknown
+237,nhs professionals,Rejected,Administrator,07-25-24,37463,"London, Greater London",Healthcare
 238,iag cargo,Rejected,Business Analyst,07-27-24,32729,"London, Greater London",Unknown
 239,portland leisure advisers,Ghosted,Business & Property Analyst,07-28-24,32335,"London, Greater London",Unknown
 240,lorien,Ghosted,Junior Data Scientist,08-24-00,35707,"London, Greater London",Unknown
@@ -242,39 +242,39 @@
 242,a lings group limited,Rejected,Office Administrator/Customer Service,08-24-00,35662,"London, Greater London",Unknown
 243,innovate,Rejected,Data Scientist,08-24-00,25070,"London, Greater London",Consulting
 244,allica bank,Ghosted,Data Analyst,08-24-00,35000,"London, Greater London",Unknown
-245,transport for london,Rejected,Data Analyst - Business Services,08-24-00,35000,"London, Greater London",Unknown
+245,transport for london,Rejected,Data Analyst - Business Services,08-24-00,35000,"London, Greater London",Transportation
 246,adecco,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
 247,cititec,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
-248,gordon yates,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
-249,harvey nash,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
-250,interquest group,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
-251,kx recruit,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
+248,gordon yates,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
+249,harvey nash,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
+250,interquest group,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
+251,kx recruit,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
 252,linkpoint recruitment specialists,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
-253,maclean moore,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
-254,marks sattin,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
-255,michael james associates,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Unknown
+253,maclean moore,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
+254,marks sattin,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
+255,michael james associates,Ghosted,CV Enquiry,08-24-00,0,"London, Greater London",Recruitment
 256,vanguard group,Rejected,Data Analyst,08-24-00,35000,"London, Greater London",Unknown
-257,plenitude consulting,Rejected,Junior Consultant  Financial Crime Risk,08-24-00,28068,"London, Greater London",Unknown
+257,plenitude consulting,Rejected,Junior Consultant | Financial Crime Risk,08-24-00,28068,"London, Greater London",Consulting
 258,qualient,Rejected,Junior Data Analyst,08-24-00,29087,"London, Greater London",Unknown
 259,razorpoint,Ghosted,Junior Data Analyst,08-24-00,39221,"London, Greater London",Unknown
 260,twilio,Rejected,"Software Engineer, Flex",08-24-00,41241,"London, Greater London",Unknown
-261,gracye,Rejected,Data Graduate - London,08-24-00,26800,"London, Greater London",Consulting 
+261,gracye,Rejected,Data Graduate - London,08-24-00,26800,"London, Greater London",Consulting
 262,career sprint,Ghosted,Trainee Data Analyst,08-24-00,33839,"London, Greater London",Recruitment
 263,career sprint,Ghosted,Trainee Data Analyst,08-24-00,33839,"London, Greater London",Recruitment
 264,shift technology,Ghosted,Graduate Data Scientist,08-13-24,27329,"London, Greater London",Unknown
 265,ea change,Ghosted,Graduate Data Analyst,08-14-24,37276,"Manchester, Lancashire",Unknown
-266,nhs,Ghosted,Graduate Data Analyst,08-14-24,31877,"London, Greater London",Unknown
+266,nhs,Ghosted,Graduate Data Analyst,08-14-24,31877,"London, Greater London",Healthcare
 267,wintermute,Rejected,Core Developer Python,08-15-24,25012,"London, Greater London",Unknown
 268,verian group,Ghosted,Data Administrator CPI,08-15-24,39680,"London, Greater London",Unknown
 269,lightyear,Rejected,Data Analyst,08-15-24,35000,"London, Greater London",Unknown
 270,zeki,Rejected,Data Assistant,08-15-24,29000,"London, Greater London",Technology
 271,sellick partnership,Ghosted,Actuarial Analyst (Pensions),08-16-24,29964,"London, Greater London",Unknown
 272,hays,Ghosted,Business Data Analyst,08-16-24,39135,"London, Greater London",Recruitment
-273,vertical advantage limited,Ghosted,Commercial Data Analyst,08-16-24,28640,"London, Greater London",Unknown
-274,corecom consulting,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Unknown
+273,vertical advantage limited,Ghosted,Commercial Data Analyst,08-16-24,28640,"London, Greater London",Recruitment
+274,corecom consulting,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Consulting
 275,data careers ltd,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Unknown
-276,harvey beric associates,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Unknown
-277,huxley associates,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Unknown
+276,harvey beric associates,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Recruitment
+277,huxley associates,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Recruitment
 278,in technology group,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Recruitment
 279,in technology group,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Recruitment
 280,nextech,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Unknown
@@ -282,8 +282,8 @@
 282,probus recruitment ltd,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Recruitment
 283,sewell wallis ltd,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Unknown
 284,sf recruitment,Ghosted,Data Analyst,08-16-24,35000,"London, Greater London",Recruitment
-285,pertemps,Ghosted,Data Analyst,08-16-24,35000,"Warwick, Warwickshire",Unknown
-286,nigel frank international,Ghosted,Data Analyst - Power BI,08-16-24,35000,"London, Greater London",Unknown
+285,pertemps,Ghosted,Data Analyst,08-16-24,35000,"Warwick, Warwickshire",Recruitment
+286,nigel frank international,Ghosted,Data Analyst - Power BI,08-16-24,35000,"London, Greater London",Recruitment
 287,omni rms,Ghosted,Data Analyst & Business Intelligence Lead,08-16-24,35000,"London, Greater London",Unknown
 288,data careers ltd,Ghosted,Data Scientist,08-16-24,33606,"London, Greater London",Unknown
 289,duval associates,Ghosted,Junior Business Analyst,08-16-24,25202,"London, Greater London",Unknown
@@ -294,11 +294,11 @@
 294,client server,Ghosted,CV Enquiry,08-18-24,0,"London, Greater London",Unknown
 295,ishanvi limited,Ghosted,Business Analyst,08-19-24,32439,"London, Greater London",Unknown
 296,nigel frank international,Ghosted,Business Support Analyst - Power BI,08-19-24,39614,"London, Greater London",Unknown
-297,langley james,Ghosted,CV Enquiry,08-19-24,0,"London, Greater London",Unknown
+297,langley james,Ghosted,CV Enquiry,08-19-24,0,"London, Greater London",Recruitment
 298,diagonal recruitment,Rejected,Data Analyst,08-19-24,47500,"London, Greater London",Recruitment
 299,hays,Rejected,Data Analyst,08-19-24,47500,"London, Greater London",Recruitment
-300,finlay jude associates,Ghosted,Data Analyst,08-19-24,35000,"London, Greater London",Unknown
-301,kenton black,Ghosted,Data Analyst,08-19-24,35000,"London, Greater London",Unknown
+300,finlay jude associates,Ghosted,Data Analyst,08-19-24,35000,"London, Greater London",Recruitment
+301,kenton black,Ghosted,Data Analyst,08-19-24,35000,"London, Greater London",Recruitment
 302,think specialist recruitment,Ghosted,Inventory and Stock Analyst,08-19-24,37766,"London, Greater London",Recruitment
 303,bip uk,Rejected,Junior Data Scientist,08-19-24,36669,"London, Greater London",Unknown
 304,intellect group,Rejected,Junior Data Scientist,08-19-24,32666,"London, Greater London",Recruitment
@@ -307,13 +307,13 @@
 307,think specialist recruitment,Ghosted,Stock and Inventory Analyst,08-19-24,41092,"London, Greater London",Recruitment
 308,localjobs4u,Ghosted,Trainee Business Analyst,08-19-24,26000,"London, Greater London",Unknown
 309,recruitment index,Rejected,Administrator,08-20-24,27636,"London, Greater London",Recruitment
-310,levy professionals,Ghosted,CV Enquiry,08-20-24,0,"London, Greater London",Unknown
-311,qa,Rejected,Data Analyst Apprentice,08-21-24,35000,"London, Greater London",Unknown
-312,qa,Rejected,Data Technician Apprentice,08-21-24,15000,"London, Greater London",Unknown
+310,levy professionals,Ghosted,CV Enquiry,08-20-24,0,"London, Greater London",Recruitment
+311,qa,Rejected,Data Analyst Apprentice,08-21-24,35000,"London, Greater London",Digital and Tech
+312,qa,Rejected,Data Technician Apprentice,08-21-24,15000,"London, Greater London",Digital and Tech
 313,be amazed media ltd,Ghosted,Machine Learning Engineer,08-21-24,35686,"London, Greater London",Unknown
 314,etoro,Rejected,Business Analyst,08-22-24,28050,"London, Greater London",Financial Technology
 315,wintermute,Rejected,Core Developer (Python),08-22-24,132500,"London, Greater London",Unknown
-316,ranstad,Ghosted,CV Enquiry,08-22-24,0,"London, Greater London",Unknown
+316,ranstad,Ghosted,CV Enquiry,08-22-24,0,"London, Greater London",Recruitment
 317,randstad,Rejected,Data Analyst Apprentice,08-22-24,35000,"London, Greater London",Recruitment
 318,randstad,Ghosted,Data Analyst Apprentice,08-22-24,35000,"London, Greater London",Recruitment
 319,trustpliot,Rejected,Data Analyst Commercial/Marketing,08-22-24,35000,"London, Greater London",Unknown
@@ -322,25 +322,25 @@
 322,just it recruitment,Ghosted,Data Skills Bootcamp,08-22-24,39733,"London, Greater London",Recruitment
 323,just it recruitment,Ghosted,Data Skills Bootcamp,08-22-24,33744,"London, Greater London",Recruitment
 324,sanctuary group,Rejected,Graduate Development Programme - Technology,08-23-24,35875,"London, Greater London",Unknown
-325,baltic apprenticeship,Rejected,Junior Data Analyst,08-23-24,18000,"London, Greater London",Unknown
+325,baltic apprenticeship,Rejected,Junior Data Analyst,08-23-24,18000,"London, Greater London",Digital and Tech
 326,in technology group,Rejected,BI / Data Analyst,08-24-24,32500,"London, Greater London",Recruitment
 327,how to job ltd,Rejected,Entry-Level Data Analyst,08-24-24,37500,"London, Greater London",Unknown
 328,how to job ltd,Rejected,Graduate Data Analyst,08-24-24,37500,"London, Greater London",Unknown
 329,bsw heating ltd,Rejected,Commercial Contract Administrator,08-25-24,34991,"London, Greater London",Unknown
 330,amazon web services,Rejected,"Business Developer Intern, AWS",08-26-24,27574,"London, Greater London",Unknown
 331,playstation global,Rejected,"Business Intelligence Analyst, Data Literacy Services",08-27-24,35427,"London, Greater London",Unknown
-332,sparta global,Rejected,Junior Business Analyst,08-29-24,25000,"London, Greater London",Unknown
-333,sparta global,Rejected,Junior Data Consultant,08-29-24,25000,"London, Greater London",Unknown
-334,sparta global,Rejected,Junior Technology Consultant,08-29-24,24000,"London, Greater London",Unknown
-335,_nology,Rejected at final stage,Pathway To Tech Program | Become A Developer (Ref.Eng20),08-29-24,30000,"London, Greater London",Unknown
+332,sparta global,Rejected,Junior Business Analyst,08-29-24,25000,"London, Greater London",Technology & Education
+333,sparta global,Rejected,Junior Data Consultant,08-29-24,25000,"London, Greater London",Technology & Education
+334,sparta global,Rejected,Junior Technology Consultant,08-29-24,24000,"London, Greater London",Technology & Education
+335,_nology,Rejected at final stage,Pathway To Tech Program | Become A Developer (Ref.Eng20),08-29-24,30000,"London, Greater London",Technology
 336,this is alexander faraday,Rejected,Data Analyst,08-30-24,30000,"London, Greater London",Unknown
 337,nfp people ltd,Rejected,Data Analyst,08-30-24,30000,"London, Greater London",Unknown
 338,computappoint,Rejected,Data Analyst,08-30-24,45000,"London, Greater London",Unknown
-339,robert half,Rejected,Data Analyst,08-30-24,47500,"London, Greater London",Unknown
+339,robert half,Rejected,Data Analyst,08-30-24,47500,"London, Greater London",Recruitment
 340,dataannotation,Ghosted,Data Analyst - AI Trainer,08-30-24,35000,"London, Greater London",Unknown
-341,talent staffing ltd,Rejected,Junior Business Analyst,08-30-24,37500,"London, Greater London",Unknown
-342,reed talent solutions,Rejected,Junior Data Analyst,08-30-24,45573,"London, Greater London",Unknown
-343,lorien resourcing,Rejected,Junior Data Analyst/Data Administrator,08-30-24,36400,"London, Greater London",Unknown
+341,talent staffing ltd,Rejected,Junior Business Analyst,08-30-24,37500,"London, Greater London",Recruitment
+342,reed talent solutions,Rejected,Junior Data Analyst,08-30-24,45573,"London, Greater London",Recruitment
+343,lorien resourcing,Rejected,Junior Data Analyst/Data Administrator,08-30-24,36400,"London, Greater London",Recruitment
 344,frontline group,Rejected,Apprentice Data Analyst,08-31-24,33695,"London, Greater London",Unknown
 345,burton bolton & rose recruitment services,Rejected,Data Analyst,08-31-24,30000,"London, Greater London",Recruitment
 346,proactive appointments,Rejected,Data Analyst,08-31-24,123500,"London, Greater London",Unknown
@@ -352,34 +352,34 @@
 352,blackrock,Rejected,Analyst Programme Technology AI 2025,09-24-00,34860,"London, Greater London",Financial Services
 353,blackrock,Rejected,Analyst Programme Technology Analytics & Modeling 2025,09-24-00,34452,"London, Greater London",Financial Services
 354,recruitment index,Ghosted,Fulfilment Administrator,09-24-00,26661,"London, Greater London",Recruitment
-355,starling bank,Rejected,Java Software Engineer,09-24-00,37503,"London, Greater London",Unknown
+355,starling bank,Rejected,Java Software Engineer,09-24-00,37503,"London, Greater London",Financial Technology
 356,blackrock,Rejected,Analyst Programme - Operations - Data Operations - 2025,09-24-00,38000,"London, Greater London",Financial Services
 357,blackrock,Rejected,Analyst Programme - Technology - Analytics & Modeling - 2025,09-24-00,36312,"London, Greater London",Financial Services
-358,qa,Rejected,Data Analyst Apprentice,09-24-00,35000,"London, Greater London",Unknown
-359,qa,Rejected,Data and Systems Analyst Apprentice,09-24-00,27000,"London, Greater London",Unknown
-360,goodman masson,Ghosted,Junior Data Analyst,09-24-00,40000,"London, Greater London",Unknown
-361,cambridge spark,Rejected,Level 4 Data Analyst Apprenticeship,09-24-00,32517,"London, Greater London",Unknown
-362,cambridge spark,Rejected,Level 5 Data Engineering Apprenticeship,09-24-00,25565,"London, Greater London",Unknown
+358,qa,Rejected,Data Analyst Apprentice,09-24-00,35000,"London, Greater London",Technology & Education
+359,qa,Rejected,Data and Systems Analyst Apprentice,09-24-00,27000,"London, Greater London",Technology & Education
+360,goodman masson,Ghosted,Junior Data Analyst,09-24-00,40000,"London, Greater London",Recruitment
+361,cambridge spark,Rejected,Level 4 Data Analyst Apprenticeship,09-24-00,32517,"London, Greater London",Technology & Education
+362,cambridge spark,Rejected,Level 5 Data Engineering Apprenticeship,09-24-00,25565,"London, Greater London",Technology & Education
 363,executive recruitment ltd,Rejected,Graduate Analyst,09-24-00,31000,"London, Greater London",Recruitment
 364,information tech consultants,Ghosted,Junior Data Engineer,09-24-00,32500,"London, Greater London",Consulting
 365,information tech consultants,Rejected,Junior Data Engineer,09-24-00,32500,"London, Greater London",Consulting
 366,aqa,Ghosted,Process Analyst,09-24-00,38149,"London, Greater London",Unknown
 367,s4 personel limited,Rejected,Business Intelligence Analyst Graduate,09-24-00,24500,"Slough, Berkshire",Unknown
-368,huxley associates,Ghosted,Data Engineer,09-24-00,45000,"London, Greater London",Unknown
+368,huxley associates,Ghosted,Data Engineer,09-24-00,45000,"London, Greater London",Recruitment
 369,in technology group,Ghosted,Data Engineer,09-24-00,45000,"London, Greater London",Recruitment
 370,intec select,Ghosted,Data Engineer,09-24-00,45000,"London, Greater London",Recruitment
-371,ubiquity press,Ghosted,Data Engineer,09-24-00,45000,"London, Greater London",Unknown
+371,ubiquity press,Ghosted,Data Engineer,09-24-00,45000,"London, Greater London",Recruitment
 372,talenttrade recruitment limited,Ghosted,Data/ETL Engineer,09-24-00,37446,"London, Greater London",Recruitment
-373,verisure services (uk) limited,Rejected,Junior Strategy Analyst,09-24-00,27157,"London, Greater London",Unknown
-374,alfred rennox,Ghosted,Trainee Data Analyst,09-24-00,30000,"London, Greater London",Unknown
-375,taylor james resourcing,Ghosted,Data MI Analyst Power Bi,09-24-00,35300,"London, Greater London",Unknown
-376,uxbridge employment agency,Rejected,Graduate Project Executive,09-24-00,29956,"Ruislip, Greater London",Unknown
-377,office angels,Ghosted,Temporary Data Analyst - Entry Level,09-24-00,36897,"London, Greater London",Unknown
+373,verisure services (uk) limited,Rejected,Junior Strategy Analyst,09-24-00,27157,"London, Greater London",Recruitment
+374,alfred rennox,Ghosted,Trainee Data Analyst,09-24-00,30000,"London, Greater London",Recruitment
+375,taylor james resourcing,Ghosted,Data MI Analyst Power Bi,09-24-00,35300,"London, Greater London",Recruitment
+376,uxbridge employment agency,Rejected,Graduate Project Executive,09-24-00,29956,"Ruislip, Greater London",Recruitment
+377,office angels,Ghosted,Temporary Data Analyst - Entry Level,09-24-00,36897,"London, Greater London",Recruitment
 378,legal and general,Rejected,Data Analyst,09-24-00,35000,"London, Greater London",Financial Services
-379,linktree,Ghosted,"Backend Engineer, Data & Machine Learning",09-14-24,27851,"London, Greater London",Unknown
+379,linktree,Ghosted,"Backend Engineer, Data & Machine Learning",09-14-24,27851,"London, Greater London",Recruitment
 380,cadence design systems,Rejected,Software Engineer I,09-14-24,37452,"London, Greater London",Unknown
-381,iq talent solutions,Rejected,3 X Data Cleanser - Housing,09-15-24,58500,"London, Greater London",Unknown
-382,iq talent solutions,Rejected,3 X Data Cleanser - Housing,09-15-24,38229,"London, Greater London",Unknown
+381,iq talent solutions,Rejected,3 X Data Cleanser - Housing,09-15-24,58500,"London, Greater London",Recruitment
+382,iq talent solutions,Rejected,3 X Data Cleanser - Housing,09-15-24,38229,"London, Greater London",Recruitment
 383,people tower ltd,Ghosted,Analyst,09-15-24,38001,"London, Greater London",Unknown
 384,build recruitment,Ghosted,Data Administrator,09-15-24,40040,"London, Greater London",Recruitment
 385,builondon recruitment,Ghosted,Data Administrator,09-15-24,36870,"London, Greater London",Recruitment
@@ -401,7 +401,7 @@
 401,pontoon,Rejected,Data Insights Analyst,09-15-24,156000,"London, Greater London",Recruitment
 402,randstad,Ghosted,Data Insights Analyst,09-15-24,30000,"London, Greater London",Recruitment
 403,how to job ltd,Ghosted,Entry-Level Data Analyst,09-15-24,27779,"London, Greater London",Unknown
-404,83zero limited,Ghosted,BI Analyst,09-16-24,31472,"London, Greater London",Unknown
+404,83zero ltd,Ghosted,BI Analyst,09-16-24,31472,"London, Greater London",Recruitment
 405,liberis,Rejected,Credit Risk Analyst,09-16-24,36465,"London, Greater London",Unknown
 406,bae systems,Ghosted,Graduate Data Consultant,09-17-24,34000,"London, Greater London",Unknown
 407,citygrad,Ghosted,Graduate Project Support Analyst,09-19-24,30557,"London, Greater London",Unknown
@@ -415,12 +415,12 @@
 415,venture recruitment partners,Ghosted,Data Analyst,09-20-24,35000,"London, Greater London",Recruitment
 416,kairos recruitment group,Ghosted,Data Analyst - Adverity,09-20-24,35000,"London, Greater London",Recruitment
 417,lhh recruitment,Ghosted,Data Analyst - Data Governance,09-20-24,35000,"London, Greater London",Recruitment
-418,the workplace consultancy,Ghosted,Data Analyst - Python / Power Bi,09-20-24,35000,"London, Greater London",Unknown
-419,chapman tate associates,Ghosted,Data Analyst (Finance),09-20-24,35000,"London, Greater London",Unknown
-420,chapman tate associates,Ghosted,Data Analyst (Finance),09-20-24,35000,"London, Greater London",Unknown
+418,the workplace consultancy,Ghosted,Data Analyst - Python / Power Bi,09-20-24,35000,"London, Greater London",Consulting
+419,chapman tate associates,Ghosted,Data Analyst (Finance),09-20-24,35000,"London, Greater London",Recruitment
+420,chapman tate associates,Ghosted,Data Analyst (Finance),09-20-24,35000,"London, Greater London",Recruitment
 421,arc it recruitment,Ghosted,"Data Analyst, MI and Analytics",09-20-24,34621,"London, Greater London",Recruitment
 422,randstad,Ghosted,Data Business Analyst (Data Modelling) x2 - Contract - 6 Months,09-20-24,30000,"London, Greater London",Recruitment
-423,tandem talent,Ghosted,HR Reward & Data Analyst,09-20-24,26875,"London, Greater London",Unknown
+423,tandem talent,Ghosted,HR Reward & Data Analyst,09-20-24,26875,"London, Greater London",Recruitment
 424,austin fraser,Ghosted,Junior Data Analyst,09-20-24,39205,"London, Greater London",Recruitment
 425,hatched recruitment group,Ghosted,Junior Energy Analyst,09-20-24,34815,"London, Greater London",Recruitment
 426,leonardo,Rejected,Graduate Software Engineer,09-21-24,26486,"London, Greater London",Unknown
@@ -430,8 +430,8 @@
 430,in technology group,Ghosted,Data Analyst,09-25-24,35000,"London, Greater London",Recruitment
 431,formula 1,Ghosted,Data Analytics Executive,09-25-24,34819,"London, Greater London",Unknown
 432,day lewis,Rejected at final stage,Growth Analyst,09-25-24,32500,"Croydon, Greater London",Unknown
-433,alfred rennox,Ghosted,Trainee Data Analyst,09-25-24,33839,"London, Greater London",Unknown
-434,vivo talent,Ghosted,Data Analyst,09-26-24,35000,"London, Greater London",Unknown
+433,alfred rennox,Ghosted,Trainee Data Analyst,09-25-24,33839,"London, Greater London",Recruitment
+434,vivo talent,Ghosted,Data Analyst,09-26-24,35000,"London, Greater London",Recruitment
 435,ajr management ltd,Rejected,Data Analyst,09-28-24,35000,"Burton-on-Trent, Staffordshire",Unknown
 436,harnham,Rejected,Data Analyst,09-28-24,35000,"London, Greater London",Recruitment
 437,free-work uk,Rejected,Data Analyst,09-28-24,35000,"London, Greater London",Unknown
@@ -439,7 +439,7 @@
 439,opus recruitment solutions,Ghosted,Data Scientist,09-28-24,31804,"London, Greater London",Recruitment
 440,teksystems,Ghosted,Data Scientist,09-28-24,31193,"London, Greater London",Unknown
 441,cherry professional,Ghosted,Data Support Administrator,09-28-24,37760,"London, Greater London",Unknown
-442,talent locker,Ghosted,Graduate / Junior Data Analyst (Power BI),09-28-24,25767,"London, Greater London",Unknown
+442,talent locker,Ghosted,Graduate / Junior Data Analyst (Power BI),09-28-24,25767,"London, Greater London",Recruitment
 443,avanti recruitment,Ghosted,Implementation Analyst,09-28-24,25653,"London, Greater London",Recruitment
 444,ocs,Ghosted,Junior Business Analyst,09-28-24,38292,"Fifehead Neville, Dorset",Unknown
 445,avanti recruitment,Ghosted,Junior Business Analyst,09-28-24,32271,"London, Greater London",Recruitment
@@ -450,7 +450,7 @@
 450,verisk,Ghosted,Data Analyst Intern - 2025 Summer Internship Program,09-30-24,35000,"London, Greater London",Unknown
 451,cps group (uk) limited,Ghosted,BI Analyst,10-24-00,28343,"London, Greater London",Unknown
 452,office angels,Ghosted,Business Analyst,10-24-00,28764,"London, Greater London",Recruitment
-453,vivo talent,Ghosted,Business Analyst,10-24-00,29813,"London, Greater London",Unknown
+453,vivo talent,Ghosted,Business Analyst,10-24-00,29813,"London, Greater London",Recruitment
 454,finlay jude associates,Ghosted,Commercial Data Analyst,10-24-00,27462,"London, Greater London",Unknown
 455,ralph recruitment,Ghosted,Commercial Data Analyst,10-24-00,27025,"London, Greater London",Recruitment
 456,bristow holland ltd,Ghosted,Data Analyst,10-24-00,35000,"London, Greater London",Unknown
@@ -467,11 +467,11 @@
 467,harper may ltd,Ghosted,Finance Analyst,10-24-00,32245,"Soho, Greater London",Unknown
 468,cms uk,Rejected,Finance Analyst - London,10-24-00,30808,"Soho, Greater London",Unknown
 469,harmonic group ltd,Rejected,Financial Planning Analyst,10-24-00,32975,"London, Greater London",Unknown
-470,reed,Rejected,Junior Finance Analyst,10-24-00,39865,"London, Greater London",Unknown
-471,360 talent london,Rejected,Junior Finance Analyst,10-24-00,36063,"London, Greater London",Unknown
+470,reed,Rejected,Junior Finance Analyst,10-24-00,39865,"London, Greater London",Recruitment
+471,360 talent london,Rejected,Junior Finance Analyst,10-24-00,36063,"London, Greater London",Recruitment
 472,information tech consultants,Ghosted,Junior Machine Learning Engineer,10-24-00,27906,"London, Greater London",Consulting
 473,deerfoot recruitment solution limited,Ghosted,Junior SQL Developer,10-24-00,38914,"London, Greater London",Recruitment
-474,83zero ltd,Ghosted,Power BI Analyst,10-24-00,25246,"London, Greater London",Unknown
+474,83zero ltd,Ghosted,Power BI Analyst,10-24-00,25246,"London, Greater London",Recruitment
 475,ef recruitment,Ghosted,Data Analyst - SQL,10-24-00,35000,"London, Greater London",Recruitment
 476,orbit discovery,Rejected,Scientist (level II),10-24-00,26702,"London, Greater London",Unknown
 477,draftkings,Rejected,Data Science Engineer,10-24-00,26161,"London, Greater London",Unknown
@@ -494,40 +494,40 @@
 494,redtech recruitment ltd,Ghosted,Graduate Technical Bid Writer,10-14-24,31834,"London, Greater London",Recruitment
 495,harris federation,Rejected,Data Analyst Support Oracle,10-18-24,50000,"London, Greater London",Unknown
 496,turn2us,Ghosted,Data Analytics Lead,10-18-24,38243,"London, Greater London",Unknown
-497,alfred rennox,Ghosted,Trainee Business Analyst,10-18-24,30000,"London, Greater London",Unknown
+497,alfred rennox,Ghosted,Trainee Business Analyst,10-18-24,30000,"London, Greater London",Recruitment
 498,jll,Rejected,"Junior Data Analyst - UK Residential, Value and Risk Advisory",10-20-24,31660,"London, Greater London",Unknown
 499,accurx,Ghosted,Analytics Engineer,10-21-24,33566,"London, Greater London",Unknown
 500,spectrum it recruitment,Ghosted,Contract Senior Data Analyst,10-22-24,36503,"London, Greater London",Recruitment
 501,hays,Ghosted,Data Analyst,10-22-24,35000,"Cardiff, South Glamorgan",Recruitment
 502,erin associates,Rejected,Data Analyst,10-22-24,35000,"Cumbria, North West England",Unknown
 503,morgan mckinley,Rejected,Data Analyst,10-22-24,35000,"Epsom, Surrey",Unknown
-504,meraki talent limited,Ghosted,Data Analyst,10-22-24,35000,"Kilmarnock, Ayrshire",Unknown
+504,meraki talent limited,Ghosted,Data Analyst,10-22-24,35000,"Kilmarnock, Ayrshire",Recruitment
 505,fisher german,Ghosted,Data Analyst,10-22-24,35000,"London, Greater London",Unknown
 506,sheridan ward recruitment services,Ghosted,Data Analyst,10-22-24,35000,"Watford, Hertfordshire",Recruitment
-507,qubit talent ltd,Ghosted,Data Analyst - Power BI,10-22-24,35000,"London, Greater London",Unknown
+507,qubit talent ltd,Ghosted,Data Analyst - Power BI,10-22-24,35000,"London, Greater London",Recruitment
 508,harnham,Rejected,Data Quality Analyst,10-22-24,39793,"London, Greater London",Recruitment
 509,citygrad,Rejected,Graduate Analyst,10-22-24,28224,"London, Greater London",Unknown
-510,carousel consultancy,Ghosted,Graduate Data Analyst,10-22-24,25107,"London, Greater London",Unknown
+510,carousel consultancy,Ghosted,Graduate Data Analyst,10-22-24,25107,"London, Greater London",Consulting
 511,fram search,Rejected,Junior Financial Analyst,10-22-24,25929,"London, Greater London",Unknown
 512,omni rms,Ghosted,Business Analyst,10-23-24,29098,"London, Greater London",Unknown
 513,ashdown group,Ghosted,Business Analyst,10-23-24,25772,"Potters Bar, Hertfordshire",Unknown
 514,akkodis,Ghosted,Business Analyst London - Hybrid To £55k,10-23-24,55000,"London, Greater London",Unknown
 515,additional resources,Ghosted,Business Intelligence Analyst,10-23-24,25216,"London, Greater London",Unknown
-516,stone talent solutions ltd,Ghosted,Commercial Finance Analyst,10-23-24,34506,"London, Greater London",Unknown
+516,stone talent solutions ltd,Ghosted,Commercial Finance Analyst,10-23-24,34506,"London, Greater London",Recruitment
 517,aj bell,Rejected,Counter Fraud Analyst,10-23-24,34909,"Manchester, Greater Manchester",Unknown
 518,atlas recruitment group limited,Ghosted,Cyber Security Data Analyst,10-23-24,39136,"London, Greater London",Recruitment
 519,nextech,Ghosted,Data Analyst,10-23-24,35000,"Birmingham, West Midlands",Unknown
 520,connexa,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Recruitment
 521,manual,Rejected,Data Analyst,10-23-24,35000,"London, Greater London",Unknown
-522,acs business performance ltd,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Unknown
+522,acs business performance ltd,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Recruitment 
 523,connexa,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Recruitment
 524,forsyth barnes,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Unknown
 525,marc daniels,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Unknown
 526,network it,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Recruitment
-527,asl technical ltd,Ghosted,Data Analyst Rejected Rejected,10-23-24,35000,"London, Greater London",Unknown
+527,asl technical ltd,Ghosted,Data Analyst,10-23-24,35000,"London, Greater London",Unknown
 528,adecco,Ghosted,Data Entry Administrator,10-23-24,26000,"London, Greater London",Recruitment
 529,rebel recruitment limited,Ghosted,Data Scientist,10-23-24,27025,"London, Greater London",Recruitment
-530,qubit talent ltd,Ghosted,Graduate Data Analyst,10-23-24,32030,"Manchester, Greater Manchester",Unknown
+530,qubit talent ltd,Ghosted,Graduate Data Analyst,10-23-24,32030,"Manchester, Greater Manchester",Recruitment
 531,vermelo rpo,Ghosted,Integration Analyst / PMO Analyst,10-23-24,38606,"London, Greater London",Unknown
 532,elevation recruitment group,Ghosted,Marketing Data Analyst,10-23-24,25038,"London, Greater London",Recruitment
 533,intec select,Ghosted,MS Dynamics F&O Business Analyst,10-23-24,29155,"London, Greater London",Recruitment
@@ -538,8 +538,8 @@
 538,vermelo rpo,Ghosted,Technical Pricing Analyst,10-23-24,38286,"London, Greater London",Recruitment
 539,vermelo rpo,Ghosted,Transaction Monitoring Analyst,10-23-24,38930,"Manchester, Greater Manchester",Recruitment
 540,horizon care & education care and education group,Ghosted,Administrator - SEN School,10-24-24,26288,"London, Greater London",Unknown
-541,reed,Ghosted,Business Analyst,10-24-24,26801,"Leeds, West Yorkshire",Unknown
-542,acs performance,Ghosted,Data Analyst,10-24-24,35000,"Haven, East Sussex",Unknown
+541,reed,Ghosted,Business Analyst,10-24-24,26801,"Leeds, West Yorkshire",Recruitment
+542,acs business performance ltd,Ghosted,Data Analyst,10-24-24,35000,"Haven, East Sussex",Recruitment 
 543,computappoint,Ghosted,Data Analyst,10-24-24,35000,"London, Greater London",Unknown
 544,transunion,Ghosted,Data Analyst Batch Processing,10-24-24,35000,"Leeds, West Yorkshire",Unknown
 545,vermelo rpo,Ghosted,Machine Learning Engineer,10-24-24,28941,"Manchester, Greater Manchester",Unknown
@@ -563,7 +563,7 @@
 563,centre for sustainable energy,Ghosted,Junior Analyst,10-29-24,37938,"London, Greater London",Unknown
 564,network scientific,Ghosted,Pharmaceutical Analyst,10-29-24,43000,"Camden Area, Greater London",Unknown
 565,randstad,Ghosted,Analyst,10-30-24,38000,"Chelmsford, Essex",Recruitment
-566,cra consulting,Ghosted,Analyst,10-30-24,38004,"Sheffield, South Yorkshire",Unknown
+566,cra consulting,Ghosted,Analyst,10-30-24,38004,"Sheffield, South Yorkshire",Consulting
 567,manpower uk ltd,Ghosted,Business Analyst,10-30-24,37500,"Wantage, Oxfordshire",Unknown
 568,deltra group,Ghosted,Commercial Analyst,10-30-24,35951,"London, Greater London",Unknown
 569,in technology group,Ghosted,Data Analyst,10-30-24,35000,"London, Greater London",Recruitment
@@ -573,23 +573,23 @@
 573,typhoon recruitment,Ghosted,Graduate - Sustainability Consultant,10-30-24,38245,"Bromley, Greater London",Recruitment
 574,howett thorpe,Ghosted,Graduate Finance Analyst,10-30-24,27721,"London, Greater London",Unknown
 575,unity five ltd,Ghosted,Junior Finance Analyst,10-30-24,30462,"London, Greater London",Unknown
-576,the talent crowd,Ghosted,Marketing Analyst,10-30-24,33983,"London, Greater London",Unknown
+576,the talent crowd,Ghosted,Marketing Analyst,10-30-24,33983,"London, Greater London",Recruitment
 577,longreach recruitment,Ghosted,MI & Insight Analyst,10-30-24,42500,"Staines, Surrey",Recruitment
 578,adecco,Ghosted,Scientific Analyst,10-30-24,39022,"London, Greater London",Recruitment
 579,antony james recruitment ltd,Ghosted,Service Charge Analyst,10-30-24,31258,"London, Greater London",Recruitment
-580,mmp consultancy,Ghosted,Service Charge Analyst,10-30-24,28305,"London, Greater London",Unknown
-581,birchley consultancy limited,Ghosted,Supply Chain Analyst,10-30-24,35000,"Stoke-on-Trent, Staffordshire",Unknown
+580,mmp consultancy,Ghosted,Service Charge Analyst,10-30-24,28305,"London, Greater London",Consulting
+581,birchley consultancy limited,Ghosted,Supply Chain Analyst,10-30-24,35000,"Stoke-on-Trent, Staffordshire",Consulting
 582,equiniti,Ghosted,Test Analyst,10-30-24,37490,"Crawley, West Sussex",Unknown
 583,datatech analytics,Ghosted,Graduate/Junior Data Analyst - Oxford,10-31-24,29539,"Oxford, Oxfordshire",Unknown
 584,hays,Ghosted,Business Data Analyst,11-24-00,136500,"London, Greater London",Recruitment
-585,reed,Ghosted,Data Administrator,11-24-00,33281,"High Wycombe, Buckinghamshire",Unknown
+585,reed,Ghosted,Data Administrator,11-24-00,33281,"High Wycombe, Buckinghamshire",Recruitment
 586,nextech,Ghosted,Data Analyst,11-24-00,32500,"Birmingham, West Midlands",Unknown
-587,third nexus group limited,Ghosted,Data Analyst,11-24-00,35000,"Manchester, Greater Manchester",Unknown
+587,third nexus group limited,Ghosted,Data Analyst,11-24-00,35000,"Manchester, Greater Manchester",Recruitment
 588,ardour associates ltd,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Unknown
-589,infused solutions ltd,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Unknown
+589,infused solutions ltd,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Recruitment
 590,isr recruitment,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Recruitment
 591,langham recruitment,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Recruitment
-592,mmp consultancy,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Unknown
+592,mmp consultancy,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Consulting
 593,austin fraser,Ghosted,Data Analyst - Tableau,11-24-00,35000,"London, Greater London",Recruitment
 594,hays,Ghosted,Data Analyst (Investment Banking),11-24-00,35000,"London, Greater London",Recruitment
 595,integral recruitment ltd,Ghosted,Data and Reporting Analyst,11-24-00,50000,"Lime Street, Greater London",Recruitment
@@ -600,11 +600,11 @@
 600,randstad,Ghosted,Junior Data Analyst,11-24-00,26204,"London, Greater London",Recruitment
 601,fynity,Ghosted,Junior Data Scientist,11-24-00,32500,"London, Greater London",Unknown
 602,white horse professional resources,Ghosted,Junior Finance Analyst,11-24-00,31009,"London, Greater London",Unknown
-603,market financial solutions,Ghosted,Power BI Data Analyst,11-24-00,38861,"London, Greater London",Unknown
+603,market financial solutions,Ghosted,Power BI Data Analyst,11-24-00,38861,"London, Greater London",Recruitment
 604,the portfolio group,Ghosted,Salesforce Junior - Data Analyst,11-24-00,23000,"Manchester, Greater Manchester",Unknown
-605,alfred rennox,Ghosted,Trainee Data Analyst,11-24-00,30000,"London, Greater London",Unknown
+605,alfred rennox,Ghosted,Trainee Data Analyst,11-24-00,30000,"London, Greater London",Recruitment
 606,hans lee resourcing ltd,Ghosted,Business Data Analyst Underwriting software,11-24-00,39329,"London, Greater London",Unknown
-607,gsk,Rejected,Laboratory Lead Analyst  Incoming Materials,11-24-00,36054,"London, Greater London",Unknown
+607,gsk,Rejected,Laboratory Lead Analyst Incoming Materials,11-24-00,36054,"London, Greater London",Biotechnology
 608,box delta insights,Ghosted,Graduate Market Research Executive,11-24-00,32120,"London, Greater London",Unknown
 609,factset research systems inc.,Ghosted,Software Engineering,11-24-00,34071,"London, Greater London",Unknown
 610,connectr,Rejected,Data Scientist Placement with Pacific Life,11-24-00,31091,"London, Greater London",Unknown
@@ -612,7 +612,7 @@
 612,hotwire - london,Ghosted,Data & Analytics Analyst (Maternity Cover),11-24-00,37670,"London, Greater London",Unknown
 613,hook,Ghosted,Data Engineer,11-24-00,45000,"London, Greater London",Unknown
 614,information tech consultants,Ghosted,Junior DevOps Engineer,11-24-00,29841,"London, Greater London",Consulting
-615,third nexus group limited,Ghosted,Data Analyst,11-24-00,37500,"Manchester, Greater Manchester",Unknown
+615,third nexus group limited,Ghosted,Data Analyst,11-24-00,37500,"Manchester, Greater Manchester",Recruitment
 616,nextech,Ghosted,Data Analyst,11-24-00,35000,"Birmingham, West Midlands",Unknown
 617,teksystems,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Unknown
 618,harnham,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Recruitment
@@ -627,7 +627,7 @@
 627,spectrum it recruitment,Ghosted,Junior Data Analyst,11-24-00,50000,"London, Greater London",Recruitment
 628,beaumont select,Ghosted,Market Data Analyst,11-24-00,31231,"London, Greater London",Unknown
 629,harnham,Ghosted,Pricing Analyst,11-24-00,38583,"London, Greater London",Recruitment
-630,alfred rennox,Ghosted,Trainee Data Analyst,11-24-00,30000,"Notting Barns, Greater London",Unknown
+630,alfred rennox,Ghosted,Trainee Data Analyst,11-24-00,30000,"Notting Barns, Greater London",Recruitment
 631,intec select,Ghosted,Data Analyst,11-24-00,35000,"London, Greater London",Recruitment
 632,octopus energy group,Ghosted,Data Engineer,11-24-00,45000,"London, Greater London",Energy
 633,jga recruitment,Ghosted,HR Data Analyst - London,11-24-00,33609,"London, Greater London",Recruitment
@@ -645,32 +645,32 @@
 645,medtronic ltd,Ghosted,Sales and Market Insights Analyst,11-18-24,34725,"London, Greater London",Unknown
 646,datatech,Ghosted,Advanced Analytics & Reporting Analyst,11-19-24,26597,"Middlesex, Greater London",Unknown
 647,huxley associates,Ghosted,AML Data Analyst,11-19-24,63000,"London, Greater London",Unknown
-648,aldwych consulting,Ghosted,Assistant Transport Planner,11-19-24,31000,"London, Greater London",Unknown
+648,aldwych consulting,Ghosted,Assistant Transport Planner,11-19-24,31000,"London, Greater London",Consulting
 649,sf recruitment,Ghosted,Business Analyst,11-19-24,56000,"Solihull, West Midlands",Recruitment
 650,damia group ltd,Ghosted,Consultant,11-19-24,42500,"London, Greater London",Unknown
 651,hays,Ghosted,Data Administrator/Junior Data Analyst,11-19-24,36105,"Manchester, Greater Manchester",Recruitment
 652,third nexus group limited,Ghosted,Data Analyst,11-19-24,55000,"London, Greater London",Unknown
 653,fynity,Ghosted,Data Analyst,11-19-24,71500,"London, Greater London",Unknown
-654,vox network consultants,Ghosted,Data Analyst - Power BI & SQL,11-19-24,35000,"London, Greater London",Unknown
+654,vox network consultants,Ghosted,Data Analyst - Power BI & SQL,11-19-24,35000,"London, Greater London",Consulting
 655,gcs ltd,Ghosted,Data Engineer Role - (FTC) - Hybrid,11-19-24,67500,"London, Greater London",Unknown
 656,aston carter,Ghosted,Finance Analyst,11-19-24,72800,"London, Greater London",Unknown
 657,aston carter,Rejected,Finance Analyst,11-19-24,72800,"London, Greater London",Unknown
-658,change-it consulting ltd,Ghosted,Fraud Analyst,11-19-24,110500,"London, Greater London",Unknown
+658,change-it consulting ltd,Ghosted,Fraud Analyst,11-19-24,110500,"London, Greater London",Consulting
 659,love & tate plc,Ghosted,Grants Data Analyst and Administrator,11-19-24,31084,"London, Greater London",Unknown
-660,merrifielondon consultants,Ghosted,HR and Payroll Administrator,11-19-24,30464,"London, Greater London",Unknown
+660,merrifielondon consultants,Ghosted,HR and Payroll Administrator,11-19-24,30464,"London, Greater London",Consulting
 661,jamieson clark,Ghosted,Junior Product Manager - SaaS IoT Home Heating Control Platform,11-19-24,55000,"London, Greater London",Unknown
 662,longreach recruitment,Ghosted,MI & Insight Analyst,11-19-24,42500,"London, Greater London",Recruitment
 663,guidant global,Ghosted,Pricing Assistant,11-19-24,49774,"London, Greater London",Unknown
 664,office angels,Ghosted,Temporary Finance Analyst,11-19-24,35360,"Shepherd's Bush, Greater London",Unknown
-665,alfred rennox,Ghosted,Trainee Data Analyst,11-19-24,30000,"London, Greater London",Unknown
+665,alfred rennox,Ghosted,Trainee Data Analyst,11-19-24,30000,"London, Greater London",Recruitment
 666,mindshare worldwide,Ghosted,Business Intelligence Analyst,11-20-24,35508,"London, Greater London",Unknown
 667,pan asia box limited,Rejected,Market Research Analyst,11-20-24,30097,"London, Greater London",Unknown
 668,deloitte,Rejected,Cyber Data & Digital Graduate Programme,11-23-24,30203,"London, Greater London",Unknown
-669,peregrine future talent,Rejected,Data and Analytics Graduate Programme,11-23-24,34990,"London, Greater London",Unknown
+669,peregrine future talent,Rejected,Data and Analytics Graduate Programme,11-23-24,34990,"London, Greater London",Recruitment
 670,caterpillar,Rejected,Data Scientist Quality Graduate Scheme,11-23-24,31450,"London, Greater London",Unknown
 671,systra,Rejected,Graduate Consultant Data Science,11-23-24,31554,"London, Greater London",Unknown
 672,tnei,Rejected,Graduate Consultants Data Science,11-23-24,38494,"London, Greater London",Unknown
-673,fertility patient liaison,Rejected,Junior Administration,11-23-24,30475,"London, Greater London",Unknown
+673,ARGC Limited,Rejected,Fertility Patient Liaison (Junior Administration Role) ,11-23-24,30475,"London, Greater London",Healthcare 
 674,metabase,Rejected,Software Engineer Backend,11-23-24,43030,"London, Greater London",Unknown
 675,engine by starling,Rejected,Platform Engineer,11-24-24,38164,"London, Greater London",Unknown
 676,relay,Ghosted,Senior Data Analyst,11-24-24,30400,"London, Greater London",Unknown
@@ -682,14 +682,15 @@
 682,akkodis,Ghosted,Data Modeller / Business Data Analyst - Insurance,11-25-24,35214,"London, Greater London",Unknown
 683,kairos recruitment group,Ghosted,Digital Analyst,11-25-24,39000,"Kingston upon Thames, Greater London",Recruitment 
 684,allen & york (built and natural environment) ltd,Ghosted,Energy Data Analyst,11-25-24,27518,"London, Greater London",Unknown
-685,addition solutions ltd,Ghosted,ESG Analyst,11-25-24,36000,"London, Greater London",Unknown
+685,addition solutions ltd,Ghosted,ESG Analyst,11-25-24,36000,"London, Greater London",Recruitment
 686,spectrum it recruitment,Ghosted,Quantitative Analyst,11-25-24,70000,"London, Greater London",Recruitment
 687,omni rms,Ghosted,Sustainability Data Analyst,11-25-24,32500,"Canary Wharf, Greater London",Unknown
 688,cloudy people,Rejected,Business Analyst,11-26-24,28405,"London, Greater London",Unknown
-689,national physical laboratory,Rejected,Graduate Scientist,11-26-24,36860,"London, Greater London",public
+689,national physical laboratory,Rejected,Graduate Scientist,11-26-24,36860,"London, Greater London",Public
 690,s4 personel limited,Ghosted,Business Intelligence Analyst Graduate,11-27-24,29108,"London, Greater London",Unknown
 691,accountable recruitment limited,Ghosted,Graduate Analyst,11-27-24,35504,"London, Greater London",Recruitment
-692,crims,Rejected,ODOO Developer  Odoo/Python  Birmingham,11-27-24,37232,"Birmingham, West Midlands",Unknown
+692,Crimson Limited,Rejected,ODOO Developer  Odoo/Python  Birmingham,11-27-24,37232,"Birmingham, West Midlands", Consultancy and IT recruitment
 693,alderley edge school for girls,Rejected,Data Analyst,11-28-24,35000,"London, Greater London",Education Technology
 694,nichola act,Rejected,Junior Finance Analyst,11-30-24,27153,"Westminster, Greater London",Recruitment
 695,intertek,Rejected at final stage,Analytical Chemist / Senior Analytical Chemist,09-30-24,27000,"Melbourn, Cambridgeshire",Biotechnology
+
